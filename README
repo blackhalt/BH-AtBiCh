@@ -4,8 +4,8 @@ BH AtBiCh
 
 Latviski (LV):
 BH AtBiCh
-PHP kods, kas nodrošina failu parlūka funkcijas servera iekšienē.
-BH AtBiCh ir viens fails un sadalīšana atsevišķos failos nav pieļaujama, jo tad BH AtBiCh zaudē savu jēgu.
+PHP kods, kas nodrošina datņu parlūka funkcijas servera iekšienē.
+BH AtBiCh ir viena datne un sadalīšana atsevišķās datnēs nav pieļaujama, jo tad BH AtBiCh zaudē savu jēgu.
 
 English (EN):
 BH AtBiCh
